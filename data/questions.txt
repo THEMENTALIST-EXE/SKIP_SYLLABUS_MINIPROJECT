@@ -1,0 +1,30 @@
+Java|1|Which keyword is used to inherit a class in Java?|extends|implements|inherits|instanceof|1
+Java|1|Which operator is used to allocate memory for an object in Java?|malloc|new|alloc|create|2
+Java|1|What is the default value of a boolean variable in Java?|true|false|null|0|2
+Java|1|Which access modifier makes a member accessible only within its own class?|public|protected|default|private|4
+Java|1|Which method is the starting execution point of any standard Java application?|start()|run()|main()|init()|3
+Java|2|Which concept allows a subclass method to provide a specific implementation of a superclass method?|Method Overloading|Method Overriding|Data Hiding|Encapsulation|2
+Java|2|Which keyword prevents a class from being subclassed or inherited?|static|final|abstract|const|2
+Java|2|Which collection class provides a resizable array implementation in Java?|LinkedList|ArrayList|Vector|HashSet|2
+Java|2|Which block is always executed regardless of whether an exception occurs or not?|try|catch|finally|throw|3
+Java|2|What happens when a primitive type is automatically converted into its wrapper object?|Autoboxing|Unboxing|Typecasting|Parsing|1
+Java|3|Which keyword is used to explicitly invoke an immediate superclass constructor?|super|this|base|parent|1
+Java|3|What type of polymorphism is resolved at runtime through method overriding?|Compile-time|Dynamic|Parametric|Static|2
+Java|3|Which of these cannot be instantiated directly using the new keyword?|Concrete Class|Abstract Class|Static Nested Class|Record|2
+Java|3|Which interface must be implemented to sort a collection of custom objects by their natural ordering?|Comparator|Comparable|Serializable|Cloneable|2
+Java|3|What is the size of a primitive double data type in Java?|4 bytes|8 bytes|16 bytes|Platform dependent|2
+DSA|1|Which data structure strictly follows the Last-In First-Out (LIFO) principle?|Queue|Stack|Binary Tree|Graph|2
+DSA|1|What is the time complexity to access an element in an array by its index?|O(1)|O(n)|O(log n)|O(n^2)|1
+DSA|1|Which data structure follows the First-In First-Out (FIFO) principle?|Stack|Queue|Heap|Trie|2
+DSA|1|In a singly linked list, what does the next pointer of the last node point to?|Head|null|Dummy|Self|2
+DSA|1|Which sorting algorithm repeatedly swaps adjacent elements if they are in the wrong order?|Merge Sort|Bubble Sort|Quick Sort|Heap Sort|2
+DSA|2|What is the worst-case time complexity of standard Binary Search on a sorted array?|O(1)|O(log n)|O(n)|O(n log n)|2
+DSA|2|Which data structure is typically used to implement Breadth-First Search (BFS) in a graph?|Stack|Queue|PriorityQueue|HashMap|2
+DSA|2|What is the maximum number of children a node can have in a Binary Tree?|1|2|3|Unlimited|2
+DSA|2|Which data structure is best suited for evaluating arithmetic postfix expressions?|Queue|Stack|Circular Queue|Deque|2
+DSA|2|In a Max Heap, where is the element with the maximum value always located?|Leaf node|Root node|Leftmost node|Arbitrary node|2
+DSA|3|Which algorithmic paradigm does Merge Sort use to sort elements?|Greedy Method|Dynamic Programming|Divide and Conquer|Backtracking|3
+DSA|3|What is the average time complexity of Quick Sort?|O(n)|O(n log n)|O(n^2)|O(log n)|2
+DSA|3|Which tree data structure maintains self-balancing with a height difference of at most 1?|B-Tree|AVL Tree|Binary Search Tree|Splay Tree|2
+DSA|3|What is the worst-case time complexity of searching an element in an unbalanced Binary Search Tree?|O(1)|O(log n)|O(n)|O(n log n)|3
+DSA|3|Which graph algorithm is used to find the shortest path from a single source in a weighted graph with non-negative weights?|Kruskal's Algorithm|Prim's Algorithm|Dijkstra's Algorithm|Floyd-Warshall Algorithm|3

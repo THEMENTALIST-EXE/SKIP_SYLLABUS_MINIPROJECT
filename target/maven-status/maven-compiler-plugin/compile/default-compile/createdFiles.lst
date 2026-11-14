@@ -1,0 +1,8 @@
+com\examheist\game\GameSession.class
+com\examheist\storage\ScoreManager.class
+com\examheist\model\Scorable.class
+com\examheist\MainApp.class
+com\examheist\storage\QuestionBank.class
+com\examheist\model\Player.class
+com\examheist\model\Question.class
+com\examheist\model\TimedQuestion.class
