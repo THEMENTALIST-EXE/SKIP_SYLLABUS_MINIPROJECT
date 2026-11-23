@@ -1,4 +1,4 @@
-# SKIP THE SYLLABUS: EXAM HEIST
+# THE VAULTBREAK HEIST
 > **Tagline:** *Crack the Questions. Escape the Exam.*
 
 A polished educational escape-room quiz desktop game built in Java and JavaFX for the second-year B.Tech Object-Oriented Programming (OOP) curriculum.
